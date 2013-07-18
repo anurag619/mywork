@@ -8,7 +8,7 @@ the following script will give an output when the command "greet" and "stock"
 
 `myshellv1.py`_ code link
 
-.._myshellv1.py:
+.._myshellv1.py: https://github.com/anurag619/mywork/blob/master/myshellv1/myshellv1.py
 
 
 ::
