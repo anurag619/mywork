@@ -1,4 +1,5 @@
-
+myshellv1
+---------
 
 the following script will give an output when the command "greet" and "stock".
 
@@ -8,12 +9,16 @@ the code for sharevalue can be found `here`_ -full sharevalue code, it has been 
 
 .. _here: https://github.com/anurag619/mywork/blob/master/sharevalue/sharevalue.py  
 
+Source link
+-----------
 
 `myshellv1.py`_ code link
 
 .. _myshellv1.py: https://github.com/anurag619/mywork/blob/master/myshellv1/myshellv1.py
 
 
+solution to the problem
+-------------------------
 
 ::
 
