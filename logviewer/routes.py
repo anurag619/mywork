@@ -16,8 +16,8 @@ def about():
  
 @app.route('/log/<json>/')
 def log(json):
-   with open('./static/posts/' + json) as file:
-      file_lines = file.readlines()
+   with open('./static/posts/'+ json) as file:
+      file_lines = file.readlines() 
   
    return render_template('log.html', cont = file_lines)
 

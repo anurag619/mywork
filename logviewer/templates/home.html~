@@ -5,7 +5,7 @@
   <div class="jumbo">
     <h3>This is the home page for your reference, below are the logs. To view each log please click on them:<h3>
   </div>
-  {% for log in files %}
+  {% for log in logs %}
     <ul>
     <a href="{{ url_for('log',json=log) }}"> {{ log }}</a>
     </ul>

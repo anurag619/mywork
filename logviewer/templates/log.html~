@@ -1,0 +1,17 @@
+
+{% extends "layout.html" %}
+{% block content %}
+  {% for lines in file_lines %}
+   
+   {% for x in tel.values() %}
+     {% for y in x %}
+       {% key = ''.join(str(z)for z in y %}
+        
+        {{ key }}
+       {% endfor %}
+     {% endfor %} 
+   {% endfor %}   
+  {% endfor %} 
+
+{% endblock %}
+

@@ -1,0 +1,41 @@
+{"date": "22-08", "text": "ul 15 19:31:00 *	kushal has changed the topic to: Welcome to Linux User's Group of Durgapur | Mailing list at  http://lists.dgplug.org/listinfo.cgi/users-dgplug.org | Old classes http://www.dgplug.org/irclogs/ | Finish your assignments | 7:30pm - Kushal - some special assignments | 7:30pm Kushal on Python | 10:30pm - pjp (more on make and gcc) | C book http://www.dgplug.org/files/C-Book.pdf | <--SESSION STARTED-->Jul 15 19:31:04 <kushal>	Roll CallJul 15 19:31:26 <Kkhushi>	Khushbu MohtaJul 15 19:31:28 <rtnpro>	Ratnadeep Debnath
+Jul 15 19:31:29 <KishanGoyal>	kishan goyal
+Jul 15 19:31:47 <kushal>	So, where we left last day ? lists ?
+Jul 15 19:32:32 <KishanGoyal>	yes.
+Jul 15 19:32:35 <kushal>	ok
+Jul 15 19:32:38 <kushal>	moving on 
+Jul 15 19:32:52 <kushal>	Today it is lowest attendance 
+Jul 15 19:32:54 <kushal>	:D
+Jul 15 19:32:55 <rtnpro>	go ahead
+Jul 15 19:33:11 <kushal>	What is a data structure ?
+Jul 15 19:33:29 <arpita>	arpita kapoor
+Jul 15 19:33:41 <kushal>	basically a way to represent some data , and defined methods to manipulate those data
+Jul 15 19:33:43 *	Debashree (n=Debashre@61.2.164.203) has joined #dgplug
+Jul 15 19:34:16 <kushal>	So, we are going to learn about two data structure and then how to implement them using python 
+Jul 15 19:34:24 <kushal>	Stack
+Jul 15 19:34:28 <Debashree>	debashree banerjee
+Jul 15 19:34:31 <bose_aritra>	aritra bose
+Jul 15 19:34:39 <kushal>	^^ you all know about stack of books
+Jul 15 19:34:44 <kushal>	or stack of DVDs
+Jul 15 19:34:54 <kushal>	it is same here  also 
+Jul 15 19:35:15 *	Soumya (n=chatzill@117.192.4.244) has joined #dgplug
+Jul 15 19:35:23 <kushal>	stack is data structure where data comes in from one, and goes out from that same side
+Jul 15 19:35:25 <kushal>	like
+Jul 15 19:35:30 <kushal>	if we have 
+Jul 15 19:35:37 <kushal>	[1,2,3]as alist 
+Jul 15 19:36:31 <kushal>	then if we add another data in stack (which is known as push)
+Jul 15 19:36:43 <kushal>	a = [1,2,3]
+Jul 15 19:36:48 <kushal>	a.append(5)
+Jul 15 19:36:55 <kushal>	now a becomes
+Jul 15 19:36:59 <kushal>	[1,2,3,5]
+Jul 15 19:37:03 *	Prakhar (n=prakhar@122.163.69.147) has joined #dgplug
+Jul 15 19:37:25 <kushal>	so if we take out the data from it , which value should go out first ?  5
+Jul 15 19:37:34 <kushal>	^^ this operation is known as pop
+Jul 15 19:37:39 <kushal>	a.pop()
+Jul 15 19:37:50 <kushal>	which will return 5 out of a
+Jul 15 19:38:01 <kushal>	^^ now try this with different data as you wish 
+Jul 15 19:38:57 <rtnpro>	done
+Jul 15 19:39:07 <KishanGoyal>	ya...done
+Jul 15 19:39:20 <KishanGoyal>	working fine
+Jul 15 19:39:30 <kushal>	try with strings , and other data 
+Jul 15 19:39:44 <rtnpro>	ok", "name": "anurag"}
